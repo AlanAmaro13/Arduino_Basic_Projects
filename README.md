@@ -15,7 +15,7 @@ In this repository you will find a series of basic projects developed in Arduino
 * [Analog Signals](https://github.com/AlanAmaro13/Arduino_Basic_Projects/tree/main/Analogic_Signal) : Introduction to the use of Analog Signals (DAC) 
 * [Change the color of a RGB LED using a Potentiometer](https://github.com/AlanAmaro13/Arduino_Basic_Projects/tree/main/LED_RGB_Potenciometer) : Using analog readings and PWM signal, change the color of a RGB LED. 
 * [Speed Control over a DC Motor](https://github.com/AlanAmaro13/Arduino_Basic_Projects/tree/main/DC_Motor) : Using analog readings change the speed of a engine using PWM signals over a transistor. 
-* [Numbers in a Display!](https://github.com/AlanAmaro13/Arduino_Basic_Projects/tree/main/Countdown_7_Segments_Display) : Using digital signal write the numbers among 0-9 in a 7 Display.
+* [Numbers and Letters in a Display!](https://github.com/AlanAmaro13/Arduino_Basic_Projects/tree/main/Countdown_7_Segments_Display) : Using digital signal write the numbers among 0-9 and the letters A, B, C in a 7 Display.
 
 ![Logo](https://github.com/AlanAmaro13/Arduino_Basic_Projects/blob/main/ARDMiniature.png)  
 
